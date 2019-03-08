@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjZ8L6SiPPgAhX28HMBHSy5CwEQjRx6BAgBEAU&url=https%3A%2F%2Ftwitter.com%2Fsanthoshkolloju&psig=AOvVaw23CCz83upk4Y5dlXprcE9e&ust=1552152325246925)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
